@@ -16,4 +16,6 @@ public class DepositRequest {
     private UUID DepositTypeId;
     private UUID customerId;
     private LocalDateTime date;
+
+
 }
